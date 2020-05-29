@@ -15,6 +15,8 @@ class Ranger
         int Strength, Agility, Perception, Intelligence;
 
 
+};
+
 void print(string text)
 {
     std::cout << text;
